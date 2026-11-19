@@ -3,7 +3,15 @@
 ## Design notes
 
 Field notes on the layout of `entry.png`, the 1024x1024 broadsheet that carries
-all of Thursday 19 November 2026 on one page.
+all of Thursday 19 November 2026 on one page. The poster is built around a
+single, falsifiable premise: every story, number and photograph on the page
+belongs to one calendar day - Thursday 19 November 2026 - and exactly 38
+stories carry that day, from the Shenzhen three-way summit at the top of the
+page to the last evening brief at the bottom. These notes record why the page
+is laid out the way it is: how the 38 stories were ranked, how the regions are
+counted and color-coded, and how the furniture (date tab, region bar, numbers
+strip, date-check footer) exists to let a reader audit the one-day, 38-story
+claim rather than take it on trust.
 
 - **Cream paper.** The page is cream rather than white because the poster is
   drawn in the manner of printed newsprint: warm stock reads as "newspaper"
@@ -48,3 +56,15 @@ all of Thursday 19 November 2026 on one page.
   all Wednesday - attributes every wire, and restates the one-page, one-day,
   38-story count. It turns the poster's premise into something a reader can
   check instead of take on faith.
+
+## Sources
+
+- Reuters
+- AP
+- AFP
+- BBC
+- Bloomberg
+- Kyodo
+- ICJ
+- USGS
+- ONS
