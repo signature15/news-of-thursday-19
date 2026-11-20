@@ -2,16 +2,14 @@
 
 ## Design notes
 
-Field notes on the layout of `entry.png`, the 1024x1024 broadsheet that carries
-all of Thursday 19 November 2026 on one page. The poster is built around a
-single, falsifiable premise: every story, number and photograph on the page
-belongs to one calendar day - Thursday 19 November 2026 - and exactly 38
-stories carry that day, from the Shenzhen three-way summit at the top of the
-page to the last evening brief at the bottom. These notes record why the page
-is laid out the way it is: how the 38 stories were ranked, how the regions are
-counted and color-coded, and how the furniture (date tab, region bar, numbers
-strip, date-check footer) exists to let a reader audit the one-day, 38-story
-claim rather than take it on trust.
+Field notes on the layout of `entry.png`, THE WORLD THIS THURSDAY: a cream,
+one-page broadsheet edition for Thursday 19 November 2026. The poster is built
+around a single, falsifiable premise: every story, number and photograph on
+the page belongs to that calendar day, and exactly 40 stories carry it from
+the leading reports at the top to the final regional brief at the bottom.
+These notes record how the 40 stories were ranked, how the stat band and region
+tally organize the page, and how the date-check footer lets a reader audit the
+one-day, 40-story claim rather than take it on trust.
 
 - **Cream paper.** The page is cream rather than white because the poster is
   drawn in the manner of printed newsprint: warm stock reads as "newspaper"

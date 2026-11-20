@@ -1,21 +1,22 @@
 /**
- * entry.png - One Day in World News, Thursday 19 November 2026.
+ * entry.png is THE WORLD THIS THURSDAY, a cream one-page news edition.
  *
- * The artifact this repository ships is entry.png, a 1024x1024 broadsheet
- * drawn in the manner of cream newsprint and holding the entire day's world
- * news on one page. Across the top sits the masthead, anchored by a red date
- * tab reading Thursday 19 November 2026. Directly beneath it runs the
- * day-in-numbers strip, eight cells of headline figures: the ICJ's 9-6 vote
- * finding genocide, Anthropic pricing its IPO at $81bn, the M5.7 earthquake
- * that struck Kumamoto, and UK inflation printing at 3.6%.
+ * This issue is dated Thursday 19 November 2026 and treats the whole day as
+ * one compact broadsheet: a single page, a shared date, and forty stories.
+ * The warm paper ground gives the image the character of a printed newspaper,
+ * while the masthead establishes the edition before the reporting begins.
  *
- * Below the strip the page descends through three tiers of cards. The three
- * hero cards carry the leading stories - the Shenzhen three-way summit, the
- * ICJ's Myanmar ruling, and Anthropic's Nasdaq debut. Five secondary cards
- * and seven tertiary cards follow with the rest of the day's significant
- * reporting. Further down, twenty-four region-tagged evening briefs sweep
- * every continent in short paragraphs. A date-check footer closes the page,
- * filtering out anything dated outside Thursday 19 November 2026.
+ * A stat band runs through the upper portion of the page, turning the day's
+ * most useful figures into a quick visual index. The story field then moves
+ * from the leading reports through shorter items, keeping the hierarchy
+ * readable without losing the breadth of the day's world coverage.
+ *
+ * A region tally makes the geographic spread visible and gives the reader a
+ * way to read the page by place as well as by story rank. The lower briefs
+ * extend that sweep across the regions while preserving the one-page rhythm.
+ *
+ * The date-check footer closes the edition by testing the calendar claim and
+ * confirming that the page belongs to Thursday 19 November 2026.
  */
 import { copyFileSync, mkdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
